@@ -1,0 +1,6 @@
+{
+  "name": "Ateliê & Confecção VesteBem - E-commerce e Suporte Inteligente ADK",
+  "description": "Plataforma de moda e confecção com agente inteligente Google ADK, WhatsApp integrado, gestão de estoque em tempo real, checkout seguro e rastreamento de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
